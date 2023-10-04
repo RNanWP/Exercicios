@@ -1,3 +1,3 @@
 # Exercicios
 
-Estudando um pouco de Back e entenendo como funcian as Heranças
+Estudando um pouco de Back e entendendo como funciana as Heranças
